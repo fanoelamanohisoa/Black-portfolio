@@ -72,7 +72,7 @@ header{
     top: 0;left: 0;
     z-index: 1000;
     height: 100%;
-    width: 35rem;
+    width: 30rem;
     background: #1a1a1a;
     display: flex;
     align-items: center;
@@ -87,6 +87,7 @@ header .user img{
     object-fit: cover;
     margin-bottom: 1rem;
     border: .7rem solid var(--yellow);
+    margin-top: 5rem;
 }
 header .user .name{
     font-size: 3.5rem;
